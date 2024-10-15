@@ -1,0 +1,37 @@
+html {
+  font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  height: 100%;
+  width: 100%;
+}
+
+b{
+  font-size: 22px;
+  text-align: center;
+ color: rgb(94, 0, 182);
+}
+
+
+a{
+  font-size: 20px;
+  color: rgb(0, 0, 0)
+}
+
+
+p{
+  font-size: 22px;
+  text-align: center;
+  color: rgb(174, 75, 205)
+}
+
+aside{
+  font-size: 22px;
+  text-align: center;
+  color:
+}
+
+body{
+  background-color: rgb(78, 59, 84)
+}
